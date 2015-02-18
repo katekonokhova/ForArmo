@@ -1,0 +1,17 @@
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\bin\Release\ForARMO.exe.config
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\bin\Release\ForARMO.exe
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\bin\Release\ForARMO.pdb
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\obj\x86\Release\ForARMO.Form1.resources
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\obj\x86\Release\ForARMO.Properties.Resources.resources
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\obj\x86\Release\ForARMO.csproj.GenerateResource.Cache
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\obj\x86\Release\ForARMO.exe
+C:\Users\Katrin\Documents\Visual Studio 2010\Projects\ForARMO\ForARMO\obj\x86\Release\ForARMO.pdb
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Release\ForARMO.exe.config
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.exe
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.pdb
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Release\ForARMO.exe
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Release\ForARMO.pdb
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.csprojResolveAssemblyReference.cache
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.Form1.resources
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.Properties.Resources.resources
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Release\ForARMO.csproj.GenerateResource.Cache

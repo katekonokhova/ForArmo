@@ -1,0 +1,17 @@
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\bin\Debug\ForARMO.exe
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\bin\Debug\ForARMO.pdb
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\obj\x86\Debug\ForARMO.Form1.resources
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\obj\x86\Debug\ForARMO.Properties.Resources.resources
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\obj\x86\Debug\ForARMO.csproj.GenerateResource.Cache
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\obj\x86\Debug\ForARMO.exe
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\obj\x86\Debug\ForARMO.pdb
+c:\users\katrin\documents\visual studio 2010\Projects\ForARMO\ForARMO\bin\Debug\ForARMO.exe.config
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Debug\ForARMO.exe.config
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.exe
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.pdb
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Debug\ForARMO.exe
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\bin\Debug\ForARMO.pdb
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.Form1.resources
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.Properties.Resources.resources
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.csproj.GenerateResource.Cache
+C:\Users\СТанислав\Desktop\ForARMO\ForARMO\obj\x86\Debug\ForARMO.csprojResolveAssemblyReference.cache
